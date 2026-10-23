@@ -8,8 +8,8 @@
 
 ## Alterações realizadas
 
-- *Novo branch*  
--  
+- Novo branch  
+- Acabar esta lista  
 
 ---
 
