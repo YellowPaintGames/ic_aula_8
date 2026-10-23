@@ -6,7 +6,7 @@ Aplicar os conhecimentos de Git aprendidos até agora, explorando o uso de **bra
 
 ---
 
-## Fazer Clone do Repositório
+## Fazer Clone de um Repositório
 
 Clona o repositório base para o teu computador:
 
