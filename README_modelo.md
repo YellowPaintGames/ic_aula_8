@@ -9,7 +9,7 @@
 ## Alterações realizadas
 
 - Novo branch  
-- Lista não acabada  
+- Acabar esta lista  
 
 ---
 
